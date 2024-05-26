@@ -1,4 +1,3 @@
-# node.js 18의 경량화 버전
 FROM node:18-bullseye-slim AS build-stage
 
 WORKDIR /app
